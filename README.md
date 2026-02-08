@@ -22,3 +22,10 @@ Testing second edit
 
 
 * making a mistake then undo-ing it
+
+
+# removing two commits
+
+
+
+* practice commit 1
