@@ -39,4 +39,3 @@ Testing second edit
 
 
 * p commit 1
-* p commit 2
