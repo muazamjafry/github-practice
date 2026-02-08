@@ -17,8 +17,5 @@ Testing second edit
 
 
 
-\##Mistakes Happen
+\##uh oh i made a mistake
 
-
-
-* making a mistake then undo-ing it
