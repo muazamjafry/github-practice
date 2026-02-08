@@ -40,4 +40,3 @@ Testing second edit
 
 * p commit 1
 * p commit 2
-* p commit 3
